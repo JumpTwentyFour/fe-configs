@@ -1,0 +1,22 @@
+{
+  "name": "@jump24/prettier-config",
+  "version": "0.0.0",
+  "description": "@jump24 prettier config",
+  "author": "Daniel Jarrett <daniel.jarrett@jump24.co.uk>",
+  "homepage": "https://github.com/JumpTwentyFour/fe-configs#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JumpTwentyFour/fe-configs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JumpTwentyFour/fe-configs/issues"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
