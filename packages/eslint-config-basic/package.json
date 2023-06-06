@@ -1,6 +1,6 @@
 {
   "name": "@jump24/eslint-config-basic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "@jump24 eslint config",
   "author": "Daniel Jarrett <daniel.jarrett@jump24.co.uk>",
   "homepage": "https://github.com/JumpTwentyFour/fe-configs#readme",
