@@ -1,6 +1,6 @@
 {
   "name": "@jump24/eslint-config-typescript",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "@jump24 eslint config for typescript projects",
   "author": "Daniel Jarrett <daniel.jarrett@jump24.co.uk>",
   "homepage": "https://github.com/JumpTwentyFour/fe-configs#readme",
@@ -17,7 +17,7 @@
     "url": "https://github.com/JumpTwentyFour/fe-configs/issues"
   },
   "devDependencies": {
-    "@jump24/eslint-config-basic": "*",
+    "@jump24/eslint-config-basic": "^0.0.3",
     "@typescript-eslint/eslint-plugin": "^5.59.9",
     "@typescript-eslint/parser": "^5.59.9",
     "eslint": "^8.42.0",
