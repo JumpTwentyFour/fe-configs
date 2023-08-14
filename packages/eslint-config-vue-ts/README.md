@@ -1,11 +1,24 @@
-# `@jump24/eslint-config-typescript`
+# `@jump24/eslint-config-vue-ts`
 
-> TODO: description
+> ESLint config for Vue 3 with TypeScript by Jump24
 
 ## Usage
 
+Install the config:
+```bash
+yarn -D @jump24/eslint-config-vue-ts
 ```
-const eslintConfigTypescript = require('@jump24/eslint-config-typescript');
 
-// TODO: DEMONSTRATE API
+```bash
+npm install --save-dev @jump24/eslint-config-vue-ts
+```
+
+Add the config:
+```js
+// .eslintrc.js
+module.exports = {
+  extends: [
+    '@jump24/eslint-config-vue-ts',
+  ],
+};
 ```
