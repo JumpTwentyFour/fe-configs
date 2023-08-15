@@ -1,7 +1,7 @@
 {
   "name": "@jump24/eslint-config-vue-ts",
   "version": "0.1.2",
-  "description": "@jump24 eslint config for vue 3 typescript projects",
+  "description": "@jump24 ESLint config for Vue 3 with Typescript projects",
   "author": "Daniel Jarrett <daniel.jarrett@jump24.co.uk>",
   "homepage": "https://github.com/JumpTwentyFour/fe-configs#readme",
   "license": "ISC",

@@ -1,0 +1,22 @@
+{
+  "name": "@jump24/eslint-config-js",
+  "version": "0.1.2",
+  "description": "@jump24 ESLint config for javascript browser-based projects",
+  "author": "Daniel Jarrett <daniel.jarrett@jump24.co.uk>",
+  "homepage": "https://github.com/JumpTwentyFour/fe-configs#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JumpTwentyFour/fe-configs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JumpTwentyFour/fe-configs/issues"
+  },
+  "dependencies": {
+    "eslint": "latest"
+  }
+}
