@@ -1,22 +1,22 @@
 module.exports = {
   'indent': [
     'error',
-    2
+    2,
   ],
   'linebreak-style': [
     'error',
-    'unix'
+    'unix',
   ],
   'quotes': [
     'error',
-    'single'
+    'single',
   ],
   'semi': [
     'error',
-    'never'
+    'never',
   ],
   'comma-dangle': [
     'error',
-    'always-multiline'
+    'always-multiline',
   ],
 }
