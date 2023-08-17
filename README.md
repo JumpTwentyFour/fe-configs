@@ -2,7 +2,7 @@
 @jump24 config npm packages for frontend use.
 
 ## Updating packages
-First you will need to login to your @jump associated npm account:
+First you will need to login to your @jump24 associated npm account:
 ```bash
 npm login
 ```
