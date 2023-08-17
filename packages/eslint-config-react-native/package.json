@@ -17,7 +17,7 @@
     "url": "https://github.com/JumpTwentyFour/fe-configs/issues"
   },
   "dependencies": {
-    "@jump24/eslint-config-react": "latest",
+    "@jump24/eslint-config-react": "^1.1.2",
     "eslint": "latest",
     "eslint-plugin-react-native": "^4.0.0"
   }
