@@ -1,15 +1,15 @@
-# `@jump24/eslint-config-react`
+# `@jump24/eslint-config-react-native`
 @jump24 ESLint config for React projects
 
 ## Usage
 
 Install the config:
 ```bash
-yarn -D @jump24/eslint-config-react
+yarn -D @jump24/eslint-config-react-native
 ```
 
 ```bash
-npm install --save-dev @jump24/eslint-config-react
+npm install --save-dev @jump24/eslint-config-react-native
 ```
 
 Add the config:
@@ -17,7 +17,7 @@ Add the config:
 // .eslintrc.js
 module.exports = {
   extends: [
-    '@jump24/eslint-config-react',
+    '@jump24/eslint-config-react-native',
   ],
 };
 ```
