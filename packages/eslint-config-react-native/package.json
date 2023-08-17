@@ -1,6 +1,6 @@
 {
   "name": "@jump24/eslint-config-react-native",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "@jump24 ESLint config for React Native projects",
   "author": "Daniel Jarrett <daniel.jarrett@jump24.co.uk>",
   "homepage": "https://github.com/JumpTwentyFour/fe-configs#readme",
@@ -17,8 +17,8 @@
     "url": "https://github.com/JumpTwentyFour/fe-configs/issues"
   },
   "dependencies": {
+    "@jump24/eslint-config-react": "latest",
     "eslint": "latest",
-    "eslint-plugin-react-native": "^4.0.0",
-    "@jump24/eslint-config-react": "latest"
+    "eslint-plugin-react-native": "^4.0.0"
   }
 }
