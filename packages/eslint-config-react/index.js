@@ -40,4 +40,9 @@ module.exports = defineConfig({
   'rules': {
     ...globalRules,
   },
+  'settings': {
+    'react': {
+      'version': 'detect',
+    },
+  },
 })
