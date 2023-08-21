@@ -1,6 +1,6 @@
 {
   "name": "@jump24/eslint-config-react",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "description": "@jump24 ESLint config for React projects",
   "author": "Daniel Jarrett <daniel.jarrett@jump24.co.uk>",
   "homepage": "https://github.com/JumpTwentyFour/fe-configs#readme",
@@ -20,7 +20,7 @@
     "@typescript-eslint/eslint-plugin": "^6.4.0",
     "@typescript-eslint/parser": "^6.4.0",
     "eslint": "^8.47.0",
-    "eslint-plugin-react": "^7.33.2",
-    "eslint-define-config": "^1.20.0"
+    "eslint-define-config": "^1.20.0",
+    "eslint-plugin-react": "^7.33.2"
   }
 }
