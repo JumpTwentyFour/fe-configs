@@ -1,6 +1,6 @@
 {
   "name": "@jump24/eslint-config-js",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "@jump24 ESLint config for javascript browser-based projects",
   "author": "Daniel Jarrett <daniel.jarrett@jump24.co.uk>",
   "homepage": "https://github.com/JumpTwentyFour/fe-configs#readme",
