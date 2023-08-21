@@ -17,6 +17,26 @@ module.exports = defineConfig({
   },
   plugins: ['prettier', 'vuejs-accessibility', '@typescript-eslint'],
   rules: {
+    'indent': [
+      'error',
+      2,
+    ],
+    'linebreak-style': [
+      'error',
+      'unix',
+    ],
+    'quotes': [
+      'error',
+      'single',
+    ],
+    'semi': [
+      'error',
+      'never',
+    ],
+    'comma-dangle': [
+      'error',
+      'always-multiline',
+    ],
     'prettier/prettier': 2,
     'vue/no-multiple-template-root': 0,
     'vue/multi-word-component-names': 0,

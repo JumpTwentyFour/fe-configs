@@ -1,5 +1,4 @@
 const { defineConfig } = require('eslint-define-config')
-const globalRules = require('../../rules/global')
 
 module.exports = defineConfig({
   root: true,
@@ -38,7 +37,26 @@ module.exports = defineConfig({
     'react',
   ],
   'rules': {
-    ...globalRules,
+    'indent': [
+      'error',
+      2,
+    ],
+    'linebreak-style': [
+      'error',
+      'unix',
+    ],
+    'quotes': [
+      'error',
+      'single',
+    ],
+    'semi': [
+      'error',
+      'never',
+    ],
+    'comma-dangle': [
+      'error',
+      'always-multiline',
+    ],
   },
   'settings': {
     'react': {
