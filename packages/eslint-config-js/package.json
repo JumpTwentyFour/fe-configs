@@ -17,6 +17,7 @@
     "url": "https://github.com/JumpTwentyFour/fe-configs/issues"
   },
   "dependencies": {
-    "eslint": "latest"
+    "eslint": "latest",
+    "eslint-define-config": "^1.20.0"
   }
 }
