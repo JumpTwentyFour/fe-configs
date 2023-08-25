@@ -5,7 +5,7 @@
 
 Install the config:
 ```bash
-yarn -D @jump24/prettier-config
+yarn add -D @jump24/prettier-config
 ```
 
 ```bash

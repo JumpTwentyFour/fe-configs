@@ -5,7 +5,7 @@
 
 Install the config:
 ```bash
-yarn -D @jump24/eslint-config-react-native
+yarn add -D @jump24/eslint-config-react-native
 ```
 
 ```bash

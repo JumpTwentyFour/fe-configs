@@ -6,7 +6,7 @@
 
 Install the config:
 ```bash
-yarn -D @jump24/eslint-config-vue-ts
+yarn add -D @jump24/eslint-config-vue-ts
 ```
 
 ```bash

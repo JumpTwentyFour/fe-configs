@@ -5,7 +5,7 @@
 
 Install the config:
 ```bash
-yarn -D @jump24/eslint-config-js-node
+yarn add -D @jump24/eslint-config-js-node
 ```
 
 ```bash
